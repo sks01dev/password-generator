@@ -1,6 +1,4 @@
-Certainly! Here’s a more visually appealing README with structured formatting, use of markdown elements like headings, bullet points, and code blocks to enhance readability.
 
----
 
 # 🔐 Password Generator
 
